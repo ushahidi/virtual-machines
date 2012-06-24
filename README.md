@@ -55,7 +55,7 @@ Save and close your hosts file. Continue to "Accessing Ushahidi" below.
 
 Record the IP address attained in the previous step. In the "Accessing Ushahidi" section that follows, replace 'demo.ushahidi.com' with that series of characters. Note that this method may not work properly, or may require modifications to the /etc/nginx/sites-enabled/ushahidi file.
 
-### Accessing Ushahidi
+## Accessing Ushahidi
 
 Open your web browser and visit http://demo.ushahidi.com/. You should be greeted by a clean Ushahidi installation, ready to be worked with.
 
